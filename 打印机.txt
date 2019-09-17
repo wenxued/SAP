@@ -1,0 +1,9 @@
+
+https://sapprinting.wdf.sap.corp:1080/home.aspx
+search:ppv0
+click "Connect to Printer" for PPV0_BWS
+
+How to use printer?
+1. Open your printer under "Control Panel\All Control Panel Items\Devices and Printers", set "PPV0_BWS on cnpvglps0.pvgl.sap.corp" to default.
+2. print your pages
+3. go to PVG02 C1 area and you can find a printer named CN19, sign in with your SAP card. Click "HP AC Secure Pull Printer" to print your jobs. 
